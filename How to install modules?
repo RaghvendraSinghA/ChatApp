@@ -1,0 +1,2 @@
+remove package-lock.json---It have list of installed versions of libraries.
+npm install to install all dependencies in project folder's terminal.
