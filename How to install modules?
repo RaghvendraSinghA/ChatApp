@@ -1,2 +1,2 @@
-remove package-lock.json---It have list of installed versions of libraries.
+remove package-lock.json---It have list of installed versions of libraries.Can do with it too but npm will not install latest version of libraries.
 npm install to install all dependencies in project folder's terminal.
